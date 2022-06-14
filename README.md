@@ -6,12 +6,12 @@
 
 ![](https://github.com/luar-dev/order-summary-component/blob/main/images/desktop-preview.jpg?raw=true)
 
-##Vistas
+## Vistas
 - Mobile
 - Desktop
 
-##Files
-###index.html
+## Files
+### index.html
 ```html
   <main>
     <img src="./images/illustration-hero.svg" class="img_hero" alt="">
@@ -32,6 +32,8 @@ device anywhere you like!</p>
     <button class="btn_cxl">Cancel Order</button>
 </main>
 ```
-###mobile.css
-###desktop.css
-#End
+### mobile.css
+
+### desktop.css
+
+# End
